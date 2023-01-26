@@ -102,44 +102,44 @@ p {
 
 .top-cloud{
   position:absolute;
-  right: 200px;
+  right: 300px;
   top: 50px;
-  width:100px;
-  height: 100px;
+  width:200px;
+  height: 200px;
 }
 
 .bottom-cloud {
   position: absolute;
   left: 200px;
-  bottom: 100px;
-  width:100px;
-  height: 100px;
+  bottom: 300px;
+  width:200px;
+  height: 200px;
 }
 
 .leader-img {
-  width:150px;
-  height: 150px;
+  width:30%;
+  height: 30%;
   float: left;
   margin-right: 30px;
 }
 
 .arch-img {
-  width:150px;
-  height: 150px;
+  width:30%;
+  height: 30%;
   float: right;
   margin-left: 30px;
 }
 
 .innovate-img {
-  width:150px;
-  height: 150px;
+  width:30%;
+  height: 30%;
   float: left;
   margin-right: 30px;
 }
 
 .learning-img {
-  width:150px;
-  height: 150px;
+  width:30%;
+  height: 30%;
   float: right;
   margin-left: 30px;
 }
@@ -174,3 +174,8 @@ p {
   width: 40%;
   margin:40px auto 60px;
 }
+
+/* .leader-skill-description {
+
+  clear: left;
+} */
